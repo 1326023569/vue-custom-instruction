@@ -5,3 +5,5 @@ input的校验
 **启动方式**
 
 npm run dev
+
+**一个简单的input框校验**
